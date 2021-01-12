@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d72f2b96-b6dc-4425-81f1-d6f5a24ac8a3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/valine/Valine.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/valine/Valine.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610338608307</updated>
-      <workItem from="1610338609729" duration="2016000" />
+      <workItem from="1610338609729" duration="2747000" />
+      <workItem from="1610341460360" duration="1259000" />
     </task>
     <task id="LOCAL-00001" summary="修改valine评论可撤回">
       <created>1610339040270</created>
@@ -72,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610340285783</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="修改昵称长度">
+      <created>1610342443586</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610342443586</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,19 +96,21 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="修改valine评论可撤回" />
     <MESSAGE value="修改valine评论可撤回,撤销修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改valine评论可撤回,撤销修改" />
+    <MESSAGE value="修改昵称长度" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改昵称长度" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="558" y="90" key="CommitChangelistDialog2" timestamp="1610340284101">
+    <state x="558" y="90" key="CommitChangelistDialog2" timestamp="1610342440117">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="558" y="90" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1610340284101" />
+    <state x="558" y="90" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1610342440117" />
     <state x="92" y="92" width="1736" height="866" key="DiffContextDialog" timestamp="1610340300159">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -109,9 +119,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="806" y="437" key="VCS.ChangelistChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1610340263999" />
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1610340291541">
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1610342447025">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1610340291541" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1610342447025" />
   </component>
 </project>
