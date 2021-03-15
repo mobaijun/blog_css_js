@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d72f2b96-b6dc-4425-81f1-d6f5a24ac8a3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d72f2b96-b6dc-4425-81f1-d6f5a24ac8a3" name="Default Changelist" comment="修改昵称长度" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +61,7 @@
       <workItem from="1612511743237" duration="1280000" />
       <workItem from="1612764519083" duration="198000" />
       <workItem from="1612833799505" duration="8000" />
+      <workItem from="1615778764605" duration="307000" />
     </task>
     <task id="LOCAL-00001" summary="修改valine评论可撤回">
       <created>1610339040270</created>
