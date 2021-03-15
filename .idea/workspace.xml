@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d72f2b96-b6dc-4425-81f1-d6f5a24ac8a3" name="Default Changelist" comment="修改昵称长度" />
+    <list default="true" id="d72f2b96-b6dc-4425-81f1-d6f5a24ac8a3" name="Default Changelist" comment="修改昵称长度">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +39,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../blog" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -61,7 +63,7 @@
       <workItem from="1612511743237" duration="1280000" />
       <workItem from="1612764519083" duration="198000" />
       <workItem from="1612833799505" duration="8000" />
-      <workItem from="1615778764605" duration="307000" />
+      <workItem from="1615778764605" duration="680000" />
     </task>
     <task id="LOCAL-00001" summary="修改valine评论可撤回">
       <created>1610339040270</created>
@@ -111,14 +113,23 @@
     <option name="LAST_COMMIT_MESSAGE" value="修改昵称长度" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="558" y="90" key="CommitChangelistDialog2" timestamp="1610342440117">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="558" y="93" key="CommitChangelistDialog2" timestamp="1615779065683">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="558" y="90" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1610342440117" />
+    <state x="558" y="93" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1615779065683" />
     <state x="92" y="92" width="1736" height="866" key="DiffContextDialog" timestamp="1610340300159">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="92" y="92" width="1736" height="866" key="DiffContextDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1610340300159" />
+    <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1615779222726">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1615779222726" />
+    <state x="779" y="229" key="RollbackChangesDialog" timestamp="1615779064228">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="779" y="229" key="RollbackChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1615779064228" />
     <state x="806" y="437" key="VCS.ChangelistChooser" timestamp="1610340263999">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
