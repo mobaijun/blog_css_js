@@ -6,7 +6,7 @@ echo ================正在查看当前目录================
 echo 当前目录是：%cd%
 echo;
 echo ================正在从远程拉取笔记================
-C:\userapp\Git\bin\git.exe pull
+git pull
 cls
 echo ==================================================================
 echo                           11               11
@@ -30,9 +30,9 @@ echo                                  111
 echo                                   1
 echo ===================================================================
 echo ================正在从本地上传笔记================
-C:\userapp\Git\bin\git.exe add .
-C:\userapp\Git\bin\git.exe commit -m "%date% %time%"
-C:\userapp\Git\bin\git.exe push origin main
+git add .
+git commit -m "%date% %time%"
+git push origin main
 echo =====================上传成功=====================
 pause 摁任意键退出
 exit
