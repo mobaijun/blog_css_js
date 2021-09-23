@@ -5,12 +5,12 @@ color 3
 echo "-------Begin-------"
 echo -------正在查看当前目录-------
 echo 当前目录是：%cd%
+echo -------正在从远程拉取代码-------
 git pull
+echo -------拉取成功-------
 git add .
 git status
 set  /p  msg=请输入提交注释:
-echo -------正在从远程拉取代码-------
-echo -------拉取成功-------
 echo -------正在从本地上传代码-------
 git commit -m "%msg% %date% %time%"
 git push origin main
